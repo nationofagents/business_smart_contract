@@ -1,0 +1,22 @@
+# Build artifacts
+out/
+cache/
+broadcast/
+
+# Dependencies (installed via forge install)
+lib/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
